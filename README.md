@@ -26,6 +26,11 @@ After that, please run:
 `pip install -r requirements.txt` 
 to install the rest of the requirements.
 
+For pytorch and torchvision you will also likely need to run:
+`pip3 install torch torchvision`
+
+Pytorch can be a bit weird to install the first time so if it is not working please refer to this link `https://pytorch.org/get-started/locally/` or reach out to me at the contact info at the bottom.
+
 Hopefully you should be good to go now in running the code in the notebooks.
 
 If it gives any error of a library missing try to install it via pip. If that fails feel free to reach me at reed.w.andreas@vanderbilt.edu or 646-884-2406 and I would be happy to help!
