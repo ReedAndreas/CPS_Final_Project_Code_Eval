@@ -31,13 +31,11 @@ After that, please run:
 `pip install -r requirements.txt` 
 to install the rest of the requirements.
 
-For pytorch and torchvision you will also likely need to run:
-`pip install torch torchvision`
-
-Again for all of these pip installs please be sure you use the proper version of pip. If any particular library fails you can try running the first import cell of our code and you can manually install whatever python says you need.
+Again for all of these pip installs please be sure you use the proper version of pip. If any particular library fails you can try running the first import cell of our code and you can manually install whatever python says you need. Also be sure your pip version is correct (should be similar to python 3.9 pip) if anything is not working.
 
 Pytorch can be a bit weird to install the first time so if it is not working please refer to this link `https://pytorch.org/get-started/locally/` or reach out to me at the contact info at the bottom.
 
 Hopefully you should be good to go now in running the code in the notebooks. Feel free to run cell by cell or hit run all to view the results.
+Running everything from experiment1_demo.ipynb will likely take between 20-60 minutes depending on the speed of your machine.
 
 If it gives any error of a library missing try to install it via pip. If that fails feel free to reach me at reed.w.andreas@vanderbilt.edu or 646-884-2406 and I would be happy to help!
