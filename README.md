@@ -38,6 +38,6 @@ Again for all of these pip installs please be sure you use the proper version of
 
 Pytorch can be a bit weird to install the first time so if it is not working please refer to this link `https://pytorch.org/get-started/locally/` or reach out to me at the contact info at the bottom.
 
-Hopefully you should be good to go now in running the code in the notebooks.
+Hopefully you should be good to go now in running the code in the notebooks. Feel free to run cell by cell or hit run all to view the results.
 
 If it gives any error of a library missing try to install it via pip. If that fails feel free to reach me at reed.w.andreas@vanderbilt.edu or 646-884-2406 and I would be happy to help!
