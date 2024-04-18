@@ -35,7 +35,11 @@ Again for all of these pip installs please be sure you use the proper version of
 
 Pytorch can be a bit weird to install the first time so if it is not working please refer to this link `https://pytorch.org/get-started/locally/` or reach out to me at the contact info at the bottom.
 
-Hopefully you should be good to go now in running the code in the notebooks. Feel free to run cell by cell or hit run all to view the results.
-Running everything from experiment1_demo.ipynb will likely take between 20-60 minutes depending on the speed of your machine.
+Hopefully you should be good to go now in running the code in the notebooks. 
+The first notebook to try is `demo_experiment_1.ipynb`
+Feel free to run cell by cell or hit run all (reccommended) to view the results.
+Running everything from experiment1_demo.ipynb will likely take between 5-45 minutes depending on the speed of your machine. If you have any problems with timing please reach out at contact info below!
 
 If it gives any error of a library missing try to install it via pip. If that fails feel free to reach me at reed.w.andreas@vanderbilt.edu or 646-884-2406 and I would be happy to help!
+
+Your results should be similar to ours but we also tried to make the computation take less long so the test size is relatively small (100). If desired, go find where that is (we commented it so its clear) and feel free to up the size so that you achive more precise results, but requiring more computation.
