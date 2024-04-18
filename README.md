@@ -1,6 +1,8 @@
-# CPS_Final_Project_Code_Eval
- 
-This is our repository for the final code evaluation for AI for CPS. 
+This repository contains the information and code for the CS8395 AI in CPS class project.
+
+Author: Reed Andreas, Gloria Zhang
+
+# Enhancing Domain Adaptation in AI Models through Explainable AI Techniques: A CRP and RelMax Approach
 
 ## Installation
 
