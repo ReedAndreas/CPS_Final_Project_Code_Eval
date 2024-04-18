@@ -4,7 +4,7 @@ Author: Reed Andreas, Gloria Zhang
 
 ## Enhancing Domain Adaptation in AI Models through Explainable AI Techniques: A CRP and RelMax Approach
 
-## Installation
+### Installation
 
 Because we build off of code from a previous paper there are a few installation requirements but please bear with it and it should all work. Please note you will need a working version of `pip` as well as a python version compatible with the original CRP and RelMax framework (3.9 works well if you need a new one but otherwise your current one should be fine so long as nothing conflicts when you install via pip). Thanks for your patience!
 
