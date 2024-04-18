@@ -2,7 +2,7 @@ This repository contains the information and code for the CS8395 AI in CPS class
 
 Author: Reed Andreas, Gloria Zhang
 
-# Enhancing Domain Adaptation in AI Models through Explainable AI Techniques: A CRP and RelMax Approach
+## Enhancing Domain Adaptation in AI Models through Explainable AI Techniques: A CRP and RelMax Approach
 
 ## Installation
 
