@@ -40,16 +40,21 @@ Pytorch can be a bit weird to install the first time so if it is not working ple
 ### Running code
 
 To try out our new method and the experiment with MNIST, please refer to: `demo_experiment_1.ipynb`.
+
 Running everything from experiment1_demo.ipynb will likely take between 5-45 minutes depending on the speed of your machine. 
+
 Your results should be similar to ours but we also tried to make the computation take less longer so the test size is relatively small (100). If desired, go find where that is (we commented it so it is clear) and feel free to up the size so that you achieve more precise results, but requiring more computation.
 
+
 To view the baseline of our method, please refer to: `baseline_testing.ipynb`.
+
 Running everything from the baseline file will likely take around 10 minutes depending on the speed of your machine. 
 
 ### Contact Information
 If you have any problems with our code, please reach out at contact info below!
 
 Reed Andreas, at reed.w.andreas@vanderbilt.edu or 646-884-2406.
+
 Gloria Zhang, at jingyu.zhang@vanderbilt.edu or 704-214-0214.
 
 We would be happy to provide any help!
