@@ -57,3 +57,5 @@ urllib3==2.2.1
 wcwidth==0.2.13
 zennit==0.4.6
 zipp==3.18.1
+shap==0.45.0
+captum==0.6.0
